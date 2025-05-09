@@ -12,3 +12,5 @@ Below is a list of Python libraries/packages used to build spiking neural networ
    https://github.com/kmheckel/spyx/tree/main
 
 5. Norse snn python package - https://github.com/norse/norse
+
+6. Snnax ssn python package - https://pgi15.github.io/snnax/
