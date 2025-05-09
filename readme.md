@@ -8,4 +8,5 @@ Below is a list of Python libraries/packages used to build spiking neural networ
 
 3. Open Neuromorphic organization github page - https://github.com/open-neuromorphic
 
-4. Spyx (pronounced "spikes") is a compact spiking neural network library - https://github.com/kmheckel/spyx/tree/main
+4. Spyx (pronounced "spikes") is a compact spiking neural network library
+   - https://github.com/kmheckel/spyx/tree/main
