@@ -5,3 +5,5 @@ Below is a list of Python libraries/packages used to build spiking neural networ
 1. snnTorch - https://snntorch.readthedocs.io/en/latest/index.html
 
 2. spikingjelly - https://spikingjelly.readthedocs.io/zh-cn/latest/index.html#index-en
+
+3. Open Neuromorphic organization github page - https://github.com/open-neuromorphic
