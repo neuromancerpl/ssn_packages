@@ -10,3 +10,5 @@ Below is a list of Python libraries/packages used to build spiking neural networ
 
 4. Spyx (pronounced "spikes") is a compact spiking neural network library
    https://github.com/kmheckel/spyx/tree/main
+
+5. Norse snn python package - https://github.com/norse/norse
